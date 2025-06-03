@@ -62,5 +62,12 @@ configurations.
 Developers: Engineers implementing the system components. 
 Testers/QA Analysts: Personnel validating system functionality against 
 requirements. 
-Business Analysts/Product Owners: Individuals who define business 
-needs and approve require 
+
+admin
+youssef.in6@gmail.com
+
+client
+youssef@gmail.com
+
+mechanic
+ali@gmail.com
